@@ -1,0 +1,679 @@
+{
+  "name": "GLCC Demo Dataset",
+  "description": "Compact accessible walking subset for A* demonstration",
+  "demoStart": "node-773",
+  "demoEnd": "node-751",
+  "routeNodeIds": [
+    "node-773",
+    "node-774",
+    "node-1443",
+    "node-1444",
+    "node-586",
+    "node-166",
+    "node-165",
+    "node-164",
+    "node-163",
+    "node-162",
+    "node-757",
+    "node-752",
+    "node-750",
+    "node-751"
+  ],
+  "nodes": {
+    "node-161": {
+      "id": "node-161",
+      "coordinates": [
+        -89.0172077,
+        43.8152194
+      ],
+      "connectedEdges": [
+        "edge-159",
+        "edge-160"
+      ]
+    },
+    "node-162": {
+      "id": "node-162",
+      "coordinates": [
+        -89.0173315,
+        43.8151982
+      ],
+      "connectedEdges": [
+        "edge-160",
+        "edge-161",
+        "edge-782",
+        "edge-783"
+      ]
+    },
+    "node-163": {
+      "id": "node-163",
+      "coordinates": [
+        -89.0174797,
+        43.81519
+      ],
+      "connectedEdges": [
+        "edge-161",
+        "edge-162"
+      ]
+    },
+    "node-164": {
+      "id": "node-164",
+      "coordinates": [
+        -89.0178849,
+        43.8152374
+      ],
+      "connectedEdges": [
+        "edge-162",
+        "edge-163",
+        "edge-1550"
+      ]
+    },
+    "node-165": {
+      "id": "node-165",
+      "coordinates": [
+        -89.0181326,
+        43.8152664
+      ],
+      "connectedEdges": [
+        "edge-163",
+        "edge-164"
+      ]
+    },
+    "node-166": {
+      "id": "node-166",
+      "coordinates": [
+        -89.0184903,
+        43.8153069
+      ],
+      "connectedEdges": [
+        "edge-164",
+        "edge-165",
+        "edge-588"
+      ]
+    },
+    "node-167": {
+      "id": "node-167",
+      "coordinates": [
+        -89.0186309,
+        43.8153228
+      ],
+      "connectedEdges": [
+        "edge-165",
+        "edge-166"
+      ]
+    },
+    "node-586": {
+      "id": "node-586",
+      "coordinates": [
+        -89.0185419,
+        43.8155783
+      ],
+      "connectedEdges": [
+        "edge-588",
+        "edge-1513",
+        "edge-1519",
+        "edge-1521"
+      ]
+    },
+    "node-711": {
+      "id": "node-711",
+      "coordinates": [
+        -89.0171923,
+        43.8155176
+      ],
+      "connectedEdges": [
+        "edge-719",
+        "edge-720",
+        "edge-771",
+        "edge-772"
+      ]
+    },
+    "node-750": {
+      "id": "node-750",
+      "coordinates": [
+        -89.0170826,
+        43.8154409
+      ],
+      "connectedEdges": [
+        "edge-772",
+        "edge-773",
+        "edge-774"
+      ]
+    },
+    "node-751": {
+      "id": "node-751",
+      "coordinates": [
+        -89.0170135,
+        43.8153925
+      ],
+      "connectedEdges": [
+        "edge-773",
+        "edge-778",
+        "edge-779"
+      ]
+    },
+    "node-752": {
+      "id": "node-752",
+      "coordinates": [
+        -89.0172241,
+        43.8153363
+      ],
+      "connectedEdges": [
+        "edge-774",
+        "edge-781"
+      ]
+    },
+    "node-755": {
+      "id": "node-755",
+      "coordinates": [
+        -89.0169275,
+        43.8154318
+      ],
+      "connectedEdges": [
+        "edge-777",
+        "edge-778"
+      ]
+    },
+    "node-756": {
+      "id": "node-756",
+      "coordinates": [
+        -89.0171056,
+        43.815344
+      ],
+      "connectedEdges": [
+        "edge-779",
+        "edge-780"
+      ]
+    },
+    "node-757": {
+      "id": "node-757",
+      "coordinates": [
+        -89.0173374,
+        43.8152495
+      ],
+      "connectedEdges": [
+        "edge-781",
+        "edge-782"
+      ]
+    },
+    "node-758": {
+      "id": "node-758",
+      "coordinates": [
+        -89.0174099,
+        43.815275
+      ],
+      "connectedEdges": [
+        "edge-783",
+        "edge-784"
+      ]
+    },
+    "node-773": {
+      "id": "node-773",
+      "coordinates": [
+        -89.0183716,
+        43.816059
+      ],
+      "connectedEdges": [
+        "edge-799"
+      ]
+    },
+    "node-774": {
+      "id": "node-774",
+      "coordinates": [
+        -89.0184937,
+        43.8160474
+      ],
+      "connectedEdges": [
+        "edge-799",
+        "edge-1512"
+      ]
+    },
+    "node-1443": {
+      "id": "node-1443",
+      "coordinates": [
+        -89.0185959,
+        43.8160385
+      ],
+      "connectedEdges": [
+        "edge-1512",
+        "edge-1514",
+        "edge-1515"
+      ]
+    },
+    "node-1444": {
+      "id": "node-1444",
+      "coordinates": [
+        -89.0185582,
+        43.8156953
+      ],
+      "connectedEdges": [
+        "edge-1513",
+        "edge-1514"
+      ]
+    },
+    "node-1445": {
+      "id": "node-1445",
+      "coordinates": [
+        -89.0186209,
+        43.8162661
+      ],
+      "connectedEdges": [
+        "edge-1515",
+        "edge-1516"
+      ]
+    },
+    "node-1447": {
+      "id": "node-1447",
+      "coordinates": [
+        -89.0187446,
+        43.8156158
+      ],
+      "connectedEdges": [
+        "edge-1518",
+        "edge-1519"
+      ]
+    },
+    "node-1448": {
+      "id": "node-1448",
+      "coordinates": [
+        -89.0183421,
+        43.8156388
+      ],
+      "connectedEdges": [
+        "edge-1520",
+        "edge-1521"
+      ]
+    },
+    "node-1473": {
+      "id": "node-1473",
+      "coordinates": [
+        -89.0180404,
+        43.8152176
+      ],
+      "connectedEdges": [
+        "edge-1549",
+        "edge-1550"
+      ]
+    }
+  },
+  "edges": {
+    "edge-160": {
+      "id": "edge-160",
+      "from": "node-161",
+      "to": "node-162",
+      "transportModes": [
+        "walking",
+        "biking",
+        "golf_cart",
+        "car"
+      ],
+      "hasStairs": false,
+      "distanceMeters": 10,
+      "bidirectional": true,
+      "surface": "paved"
+    },
+    "edge-161": {
+      "id": "edge-161",
+      "from": "node-162",
+      "to": "node-163",
+      "transportModes": [
+        "walking",
+        "biking",
+        "golf_cart",
+        "car"
+      ],
+      "hasStairs": false,
+      "distanceMeters": 9,
+      "bidirectional": true,
+      "surface": "paved"
+    },
+    "edge-162": {
+      "id": "edge-162",
+      "from": "node-163",
+      "to": "node-164",
+      "transportModes": [
+        "walking",
+        "biking",
+        "golf_cart",
+        "car"
+      ],
+      "hasStairs": false,
+      "distanceMeters": 33,
+      "bidirectional": true,
+      "surface": "paved"
+    },
+    "edge-163": {
+      "id": "edge-163",
+      "from": "node-164",
+      "to": "node-165",
+      "transportModes": [
+        "walking",
+        "biking",
+        "golf_cart",
+        "car"
+      ],
+      "hasStairs": false,
+      "distanceMeters": 15,
+      "bidirectional": true,
+      "surface": "paved"
+    },
+    "edge-164": {
+      "id": "edge-164",
+      "from": "node-165",
+      "to": "node-166",
+      "transportModes": [
+        "walking",
+        "biking",
+        "golf_cart",
+        "car"
+      ],
+      "hasStairs": false,
+      "distanceMeters": 29,
+      "bidirectional": true,
+      "surface": "paved"
+    },
+    "edge-165": {
+      "id": "edge-165",
+      "from": "node-166",
+      "to": "node-167",
+      "transportModes": [
+        "walking",
+        "biking",
+        "golf_cart",
+        "car"
+      ],
+      "hasStairs": false,
+      "distanceMeters": 11,
+      "bidirectional": true,
+      "surface": "paved"
+    },
+    "edge-588": {
+      "id": "edge-588",
+      "from": "node-166",
+      "to": "node-586",
+      "transportModes": [
+        "walking",
+        "biking",
+        "golf_cart",
+        "car"
+      ],
+      "hasStairs": false,
+      "distanceMeters": 30,
+      "bidirectional": true,
+      "surface": "paved"
+    },
+    "edge-772": {
+      "id": "edge-772",
+      "from": "node-711",
+      "to": "node-750",
+      "transportModes": [
+        "walking"
+      ],
+      "hasStairs": false,
+      "distanceMeters": 12,
+      "bidirectional": true,
+      "surface": "paved"
+    },
+    "edge-773": {
+      "id": "edge-773",
+      "from": "node-750",
+      "to": "node-751",
+      "transportModes": [
+        "walking"
+      ],
+      "hasStairs": false,
+      "distanceMeters": 8,
+      "bidirectional": true,
+      "surface": "paved"
+    },
+    "edge-774": {
+      "id": "edge-774",
+      "from": "node-750",
+      "to": "node-752",
+      "transportModes": [
+        "walking"
+      ],
+      "hasStairs": false,
+      "distanceMeters": 16,
+      "bidirectional": true,
+      "surface": "paved"
+    },
+    "edge-778": {
+      "id": "edge-778",
+      "from": "node-755",
+      "to": "node-751",
+      "transportModes": [
+        "walking"
+      ],
+      "hasStairs": false,
+      "distanceMeters": 8,
+      "bidirectional": true,
+      "surface": "paved"
+    },
+    "edge-779": {
+      "id": "edge-779",
+      "from": "node-751",
+      "to": "node-756",
+      "transportModes": [
+        "walking"
+      ],
+      "hasStairs": false,
+      "distanceMeters": 9,
+      "bidirectional": true,
+      "surface": "paved"
+    },
+    "edge-781": {
+      "id": "edge-781",
+      "from": "node-752",
+      "to": "node-757",
+      "transportModes": [
+        "walking",
+        "biking",
+        "golf_cart",
+        "car"
+      ],
+      "hasStairs": false,
+      "distanceMeters": 13,
+      "bidirectional": true,
+      "surface": "paved"
+    },
+    "edge-782": {
+      "id": "edge-782",
+      "from": "node-757",
+      "to": "node-162",
+      "transportModes": [
+        "walking",
+        "biking",
+        "golf_cart",
+        "car"
+      ],
+      "hasStairs": false,
+      "distanceMeters": 4,
+      "bidirectional": true,
+      "surface": "paved"
+    },
+    "edge-783": {
+      "id": "edge-783",
+      "from": "node-162",
+      "to": "node-758",
+      "transportModes": [
+        "walking",
+        "biking",
+        "golf_cart",
+        "car"
+      ],
+      "hasStairs": false,
+      "distanceMeters": 6,
+      "bidirectional": true,
+      "surface": "paved"
+    },
+    "edge-799": {
+      "id": "edge-799",
+      "from": "node-773",
+      "to": "node-774",
+      "transportModes": [
+        "walking"
+      ],
+      "hasStairs": false,
+      "distanceMeters": 10,
+      "bidirectional": true,
+      "surface": "paved"
+    },
+    "edge-1512": {
+      "id": "edge-1512",
+      "from": "node-774",
+      "to": "node-1443",
+      "transportModes": [
+        "walking"
+      ],
+      "hasStairs": false,
+      "distanceMeters": 8,
+      "bidirectional": true,
+      "surface": "paved"
+    },
+    "edge-1513": {
+      "id": "edge-1513",
+      "from": "node-586",
+      "to": "node-1444",
+      "transportModes": [
+        "walking",
+        "biking",
+        "golf_cart",
+        "car"
+      ],
+      "hasStairs": false,
+      "distanceMeters": 8,
+      "bidirectional": true,
+      "surface": "paved"
+    },
+    "edge-1514": {
+      "id": "edge-1514",
+      "from": "node-1444",
+      "to": "node-1443",
+      "transportModes": [
+        "walking",
+        "biking",
+        "golf_cart",
+        "car"
+      ],
+      "hasStairs": false,
+      "distanceMeters": 38,
+      "bidirectional": true,
+      "surface": "paved"
+    },
+    "edge-1515": {
+      "id": "edge-1515",
+      "from": "node-1443",
+      "to": "node-1445",
+      "transportModes": [
+        "walking",
+        "biking",
+        "golf_cart",
+        "car"
+      ],
+      "hasStairs": false,
+      "distanceMeters": 25,
+      "bidirectional": true,
+      "surface": "paved"
+    },
+    "edge-1519": {
+      "id": "edge-1519",
+      "from": "node-1447",
+      "to": "node-586",
+      "transportModes": [
+        "walking",
+        "biking",
+        "golf_cart",
+        "car"
+      ],
+      "hasStairs": false,
+      "distanceMeters": 16,
+      "bidirectional": true,
+      "surface": "paved"
+    },
+    "edge-1521": {
+      "id": "edge-1521",
+      "from": "node-1448",
+      "to": "node-586",
+      "transportModes": [
+        "walking"
+      ],
+      "hasStairs": false,
+      "distanceMeters": 13,
+      "bidirectional": true,
+      "surface": "paved"
+    },
+    "edge-1550": {
+      "id": "edge-1550",
+      "from": "node-1473",
+      "to": "node-164",
+      "transportModes": [
+        "walking",
+        "biking",
+        "golf_cart",
+        "car"
+      ],
+      "hasStairs": false,
+      "distanceMeters": 8,
+      "bidirectional": true,
+      "surface": "paved"
+    }
+  },
+  "pointsOfInterest": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0182293,
+          43.8160216
+        ]
+      },
+      "properties": {
+        "id": "osm-way/262908418",
+        "name": "Kern Lodge",
+        "category": "lodging",
+        "nearestNodeId": "node-773",
+        "activities": [
+          "sleeping",
+          "dining"
+        ],
+        "amenities": [
+          "wifi",
+          "restrooms"
+        ],
+        "vendingLocations": [
+          "Snack Vendings: third floor by ice machine",
+          "Drink Vending: first floor by elevators"
+        ],
+        "accessible": true,
+        "hasStairs": false,
+        "description": "57-room lodge near the Avenue of the Flags."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0169789,
+          43.8153526
+        ]
+      },
+      "properties": {
+        "id": "custom-parking-01",
+        "name": "Parking Lot 1",
+        "category": "parking",
+        "description": "",
+        "activities": [],
+        "amenities": [],
+        "accessible": false,
+        "hasStairs": false,
+        "nearestNodeId": "node-751",
+        "tags": [
+          "parking"
+        ],
+        "source": "custom"
+      }
+    }
+  ]
+}
